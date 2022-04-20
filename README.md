@@ -18,5 +18,5 @@ function errorCallback(error) {
 }
 ```
 
-![](first.png)
-![](second.png)
+![](First.png)
+![](Second.png)
